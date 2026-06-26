@@ -84,16 +84,6 @@ A browser-based typing speed game designed for developers to practice coding syn
 
 ---
 
-## 📚 My Repositories
-
-- [Code-Typing-Game](https://github.com/snehaholkar20/Code-Typing-Game) — Fun typing game to improve coding speed and accuracy
-- [Java-Programs](https://github.com/snehaholkar20/Java-Programs) — Java programs covering OOP, Arrays, Loops, Inheritance, Threads
-- [SNotepad](https://github.com/snehaholkar20/SNotepad) — Simple and elegant Notepad application
-- [Resume-Maker](https://github.com/snehaholkar20/Resume-Maker-) — Web application to create and download professional resumes
-- [Area](https://github.com/snehaholkar20/Area) — Repository for area-related projects
-
----
-
 ## 🏅 Certifications
 
 | Issuer | Certification |
