@@ -24,20 +24,18 @@
 
 <div align="center">
 
-**Most Used Language**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 **Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Web & Frameworks**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Database & Tools**  
 ![Oracle](https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -49,7 +47,7 @@
 
 ---
 
-## 🏗️ Featured Projects
+## 🏗️ Projects
 
 ### 🤖 AI Job Tracker *(In Progress)*
 > Spring Boot · Oracle PL/SQL · REST API · AI Integration · Kanban UI
@@ -61,21 +59,7 @@ A full-stack web application to manage job applications intelligently. Features 
 ### 🏦 Bank Management System
 > Java Swing · Oracle 10g · JDBC
 
-Desktop application for managing bank accounts — deposits, withdrawals, account creation, and transaction history.
-
----
-
-### ⌨️ Code Typing Game
-> HTML · CSS · JavaScript
-
-A fun and interactive typing game designed to improve coding speed and accuracy. Players type code snippets under time pressure, earning points for precision and speed. [→ View Repo](https://github.com/snehaholkar20/Code-Typing-Game)
-
----
-
-### 🌐 Resume Maker
-> HTML · CSS · JavaScript
-
-A web application to create and download professional resumes with live preview and easy-to-use interface. [→ View Repo](https://github.com/snehaholkar20/Resume-Maker-)
+Desktop application for managing bank accounts — deposits, withdrawals, account creation, and transaction history. Built with Java Swing frontend and Oracle database backend.
 
 ---
 
@@ -86,17 +70,17 @@ A clean, lightweight Notepad application built with C# Windows Forms. [→ View 
 
 ---
 
-### ☕ Java Programs
-> Java
+### 🌐 Resume Maker Website
+> HTML · CSS · JavaScript
 
-Comprehensive collection of Java programs covering OOP, Arrays, Loops, Inheritance, and Threads. Great learning resource! [→ View Repo](https://github.com/snehaholkar20/Java-Programs)
+Interactive resume builder with **live preview** and **PDF export** functionality.
 
 ---
 
-### 📂 Area
-> Collection Repository
+### ⌨️ Code Typing Game
+> HTML · CSS · JavaScript
 
-Welcome to my GitHub repositories collection. [→ View Repo](https://github.com/snehaholkar20/Area)
+A browser-based typing speed game designed for developers to practice coding syntax.
 
 ---
 
