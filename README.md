@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sneha%20Holkar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Data%20Analytics%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sneha%20Holkar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Softwar" alt="Header" width="100%"/>
 
 </div>
 
@@ -47,19 +47,33 @@
 
 ---
 
-## 🏗️ Projects
+## 🏗️ Featured Projects
 
 ### 🤖 AI Job Tracker *(In Progress)*
 > Spring Boot · Oracle PL/SQL · REST API · AI Integration · Kanban UI
 
-A full-stack web application to manage job applications intelligently. Features include a **Kanban board UI**, **AI-powered application health scoring**, and **automated reporting via DBMS_SCHEDULER**.
+A full-stack web application to manage job applications intelligently. Features include a **Kanban board UI**, **AI-powered application health scoring**, and **automated reporting**.
 
 ---
 
 ### 🏦 Bank Management System
 > Java Swing · Oracle 10g · JDBC
 
-Desktop application for managing bank accounts — deposits, withdrawals, account creation, and transaction history. Built with Java Swing frontend and Oracle database backend.
+Desktop application for managing bank accounts — deposits, withdrawals, account creation, and transaction history.
+
+---
+
+### ⌨️ Code Typing Game
+> HTML · CSS · JavaScript
+
+A fun and interactive typing game designed to improve coding speed and accuracy. Players type code snippets under time pressure, earning points for precision and speed. [→ View Repo](https://github.com/snehaholkar20/Code-Typing-Game)
+
+---
+
+### 🌐 Resume Maker
+> HTML · CSS · JavaScript
+
+A web application to create and download professional resumes with live preview and easy-to-use interface. [→ View Repo](https://github.com/snehaholkar20/Resume-Maker-)
 
 ---
 
@@ -70,17 +84,17 @@ A clean, lightweight Notepad application built with C# Windows Forms. [→ View 
 
 ---
 
-### 🌐 Resume Maker Website
-> HTML · CSS · JavaScript
+### ☕ Java Programs
+> Java
 
-Interactive resume builder with **live preview** and **PDF export** functionality.
+Comprehensive collection of Java programs covering OOP, Arrays, Loops, Inheritance, and Threads. Great learning resource! [→ View Repo](https://github.com/snehaholkar20/Java-Programs)
 
 ---
 
-### ⌨️ Code Typing Game
-> HTML · CSS · JavaScript
+### 📂 Area
+> Collection Repository
 
-A browser-based typing speed game designed for developers to practice coding syntax.
+Welcome to my GitHub repositories collection. [→ View Repo](https://github.com/snehaholkar20/Area)
 
 ---
 
@@ -107,7 +121,7 @@ A browser-based typing speed game designed for developers to practice coding syn
 
 <div align="center">
 
-![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehaholkar20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehaholkar20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehaholkar20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
